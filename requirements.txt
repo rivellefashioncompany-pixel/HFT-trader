@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]
+MetaTrader5
+pandas
+numpy
+python-dotenv
+pytz
